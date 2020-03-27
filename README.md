@@ -16,3 +16,14 @@
 1) In `app.js`, get the input container, and hide it in our click handler.
 1) In `style.css`, set the madlib container to hidden fro, the get go.
 1) In `app.js`, set the madlib container to visible in the click hanlder.
+
+### Stretch goal ideas
+####JS stretch goals
+1) Make a reset button so users can take the quiz again
+1) Make a counter at the top of the page that shows how many times the quiz has been taken.
+1) Also keep track of the stories that users have made and display this archive of past madlibs somewhere in your site.
+
+#### CSS stretch goals
+1) Research CSS Grid and use it in your design.
+1) Add hover animations (with the CSS `transform` property) to your site
+1) Look up css keyframe animations and use them in your site.
